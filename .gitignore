@@ -1,6 +1,10 @@
 # build output
 dist/
 .output/
+.next
+
+package-lock.json
+yarn.lock
 
 # dependencies
 node_modules/
